@@ -1,4 +1,20 @@
-﻿using System;
+﻿/*
+ *File Name: HandlingSumQueries.cs
+
+* Name: Ian Baker, Zulqarnayan Hossain, Leah T slassie, Mariah Jenkins
+* email: bakerin@mail.uc.edu, hossaizn@mail.uc.edu, tslassll@mail.uc.edu, jenkim3@mail.uc.edu
+* Assignment Number: Final Project
+* Due Date:  4/29/2025
+* Course #/Section: IS3050-001
+* Semester/Year:   Spring 2025
+* Brief Description of the assignment:  This assignment included the team creating a project in Visual Studio that is a web page displaying 4 different Leetcode problems and their solutions. The languages used to build the web page are C# and ASP.Net.
+
+* Brief Description of what this module does. Handles backend logic: detects which card was clicked, dynamically invokes the matching solution class, and displays the output.
+* Citations: https://chat.openai.com/
+	     https://claude.ai/ 
+ */
+ 
+using System;
 using System.Web.UI.WebControls;
 using Kahaluu_FinalProject.LeetCode;
 

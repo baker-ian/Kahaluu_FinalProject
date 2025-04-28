@@ -1,4 +1,19 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Kahaluu_FinalProject.Default" %>
+﻿<!--
+ *File Name: HandlingSumQueries.cs
+
+* Name: Ian Baker, Zulqarnayan Hossain, Leah T slassie, Mariah Jenkins
+* email: bakerin@mail.uc.edu, hossaizn@mail.uc.edu, tslassll@mail.uc.edu, jenkim3@mail.uc.edu
+* Assignment Number: Final Project
+* Due Date:  4/29/2025
+* Course #/Section: IS3050-001
+* Semester/Year:   Spring 2025
+* Brief Description of the assignment:  This assignment included the team creating a project in Visual Studio that is a web page displaying 4 different Leetcode problems and their solutions. The languages used to build the web page are C# and ASP.Net.
+
+* Brief Description of what this module does. Defines the user interface, displaying clickable problem cards and a dynamic area to show problem details and results.
+* Citations: https://chat.openai.com/
+	     https://claude.ai/ 
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Kahaluu_FinalProject.Default" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
