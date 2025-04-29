@@ -1,5 +1,5 @@
 ﻿/*
- *File Name: SelectCellsInGrid.cs
+ *File Name: DistinctEchoSubstrings.cs
 
 * Name: Ian Baker, Zulqarnayan Hossain, Leah T slassie, Mariah Jenkins
 * email: bakerin@mail.uc.edu, hossaizn@mail.uc.edu, tslassll@mail.uc.edu, jenkim3@mail.uc.edu
